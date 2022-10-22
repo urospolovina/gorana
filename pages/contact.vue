@@ -1,12 +1,15 @@
 <template>
-  <div class="px-96">
-    <NavBar />
-    <Hero />
+  <div>
+    nesto o meni
   </div>
 </template>
 
 <script>
 export default {
-  
+
 }
 </script>
+
+<style>
+
+</style>
