@@ -1,8 +1,7 @@
 <template>
-  <div class="px-96">
-    <NavBar />
-    <Hero />
-  </div>
+ <div>
+  <Hero />
+ </div>
 </template>
 
 <script>
